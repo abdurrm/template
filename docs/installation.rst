@@ -1,5 +1,5 @@
 ============
-Installation
+Installation cara
 ============
 
 Install the package with pip::
